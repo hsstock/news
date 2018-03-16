@@ -1,0 +1,1 @@
+FROM hub.c.163.com/cnpbimserver/meteor-launchpad:0.1.2
